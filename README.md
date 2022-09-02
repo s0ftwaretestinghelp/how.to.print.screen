@@ -1,6 +1,6 @@
 # how to print screen
 
-[![how to print screen](gett-detail.png)](https://computersolve.com/how-to-print-screen/)
+[![how to print screen](gett-detail.png)](https://icncomputer.com/how-to-print-screen/)
 
 A print screen, also known as a screenshot, screengrab, or screen capture, is an image you take of your computer’s screen at that moment. It can serve a variety of uses, such as creating receipts, capturing information from your computer, and even allowing you to resize images. There are several ways you can capture your screen on Windows, so whichever way you choose to do it will depend on what you feel most comfortable with and what tools you want to use.
 
